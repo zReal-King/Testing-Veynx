@@ -394,7 +394,7 @@ function Luxt1.CreateWindow(libName, logoId)
             sectionExpannd.Position = UDim2.new(0.91863519, 0, 0.138888896, 0)
             sectionExpannd.Size = UDim2.new(0, 25, 0, 25)
             sectionExpannd.ZIndex = 2
-            sectionExpannd.Image = "rbxassetid://3926305904"
+            sectionExpannd.Image = "rbxassetid://8913123758"
             sectionExpannd.ImageColor3 = Color3.fromRGB(153, 255, 238)
             sectionExpannd.ImageRectOffset = Vector2.new(564, 284)
             sectionExpannd.ImageRectSize = Vector2.new(36, 36)
@@ -537,7 +537,7 @@ function Luxt1.CreateWindow(libName, logoId)
                     checkBtn.Position = UDim2.new(0.0191780813, 0, 0.138888896, 0)
                     checkBtn.Size = UDim2.new(0, 25, 0, 25)
                     checkBtn.ZIndex = 2
-                    checkBtn.Image = "rbxassetid://3926311105"
+                    checkBtn.Image = "rbxassetid://8913123758"
                     checkBtn.ImageColor3 = Color3.fromRGB(97, 97, 97)
                     checkBtn.ImageRectOffset = Vector2.new(940, 784)
                     checkBtn.ImageRectSize = Vector2.new(48, 48)
@@ -888,7 +888,7 @@ function Luxt1.CreateWindow(libName, logoId)
                                 triangle.BackgroundTransparency = 1.000
                                 triangle.Size = UDim2.new(0, 44, 0, 39)
                                 triangle.ZIndex = 2
-                                triangle.Image = "rbxassetid://3926307971"
+                                triangle.Image = "rbxassetid://8913123758"
                                 triangle.ImageColor3 = Color3.fromRGB(31, 31, 31)
                                 triangle.ImageRectOffset = Vector2.new(324, 524)
                                 triangle.ImageRectSize = Vector2.new(36, 36)
@@ -1122,7 +1122,7 @@ function Luxt1.CreateWindow(libName, logoId)
                                     expand_more.Position = UDim2.new(0.91900003, 0, 0.138999999, 0)
                                     expand_more.Size = UDim2.new(0, 25, 0, 25)
                                     expand_more.ZIndex = 2
-                                    expand_more.Image = "rbxassetid://3926305904"
+                                    expand_more.Image = "rbxassetid://8913123758"
                                     expand_more.ImageColor3 = Color3.fromRGB(153, 255, 238)
                                     expand_more.ImageRectOffset = Vector2.new(564, 284)
                                     expand_more.ImageRectSize = Vector2.new(36, 36)
