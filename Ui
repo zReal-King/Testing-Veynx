@@ -227,7 +227,7 @@ function Luxt1.CreateWindow(libName, logoId)
     shadow.Position = UDim2.new(0.319562584, 0, 0.168689325, 0)
     shadow.Size = UDim2.new(0, 609, 0, 530)
     shadow.ZIndex = 0
-    shadow.Image = "http://www.roblox.com/asset/?id=6105530152"
+    shadow.Image = ""
     shadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
     shadow.ImageTransparency = 0.200
 
