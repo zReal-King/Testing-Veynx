@@ -158,7 +158,7 @@ function Luxt1.CreateWindow(libName, logoId)
     hubName.ZIndex = 2
     hubName.Font = Enum.Font.GothamSemibold
     hubName.Text = libName
-    hubName.TextColor3 = Color3.fromRGB(153, 255, 238)
+    hubName.TextColor3 = Color3.fromRGB(255, 255 ,255)
     hubName.TextSize = 14.000
     hubName.TextWrapped = true
     hubName.TextXAlignment = Enum.TextXAlignment.Left
@@ -187,7 +187,7 @@ function Luxt1.CreateWindow(libName, logoId)
     usename.ZIndex = 2
     usename.Font = Enum.Font.GothamSemibold
     usename.Text = game.Players.LocalPlayer.Name
-    usename.TextColor3 = Color3.fromRGB(103, 172, 161)
+    usename.TextColor3 = Color3.fromRGB(255, 255 ,255)
     usename.TextSize = 12.000
     usename.TextWrapped = true
     usename.TextXAlignment = Enum.TextXAlignment.Left
@@ -202,8 +202,8 @@ function Luxt1.CreateWindow(libName, logoId)
     wave.BackgroundTransparency = 1.000
     wave.Position = UDim2.new(0.0213434305, 0, 0, 0)
     wave.Size = UDim2.new(0.97865659, 0, 0.557522118, 0)
-    wave.Image = "http://www.roblox.com/asset/?id=6087537285"
-    wave.ImageColor3 = Color3.fromRGB(181, 249, 255)
+    wave.Image = "http://www.roblox.com/asset/?id=8913123758"
+    wave.ImageColor3 = Color3.fromRGB(255, 255, 255)
     wave.ImageTransparency = 0.300
     wave.ScaleType = Enum.ScaleType.Slice
 
@@ -258,7 +258,7 @@ function Luxt1.CreateWindow(libName, logoId)
         tabBtn.ZIndex = 2
         tabBtn.Font = Enum.Font.Gotham
         tabBtn.Text = tabText
-        tabBtn.TextColor3 = Color3.fromRGB(153, 255, 238)
+        tabBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
         tabBtn.TextSize = 14.000
         tabBtn.TextXAlignment = Enum.TextXAlignment.Left
 
@@ -317,12 +317,12 @@ function Luxt1.CreateWindow(libName, logoId)
                     for i,v in next, v:GetChildren() do
                         if v:IsA("TextButton") then
                             game.TweenService:Create(v, TweenInfo.new(0.18, Enum.EasingStyle.Quint, Enum.EasingDirection.In), {
-                                TextColor3 = Color3.fromRGB(35, 59, 55)
+                                TextColor3 = Color3.fromRGB(255, 255, 255)
                             }):Play()
                         end
                         if v:IsA("ImageLabel") then
                             game.TweenService:Create(v, TweenInfo.new(0.18, Enum.EasingStyle.Quint, Enum.EasingDirection.In), {
-                                ImageColor3 = Color3.fromRGB(35, 59, 55)
+                                ImageColor3 = Color3.fromRGB(255, 255, 255)
                             }):Play()
                         end
                     end
